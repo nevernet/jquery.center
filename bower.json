@@ -7,7 +7,8 @@
     "type": "git",
     "url": "git://github.com/nevernet/jquery.center.git"
   },
-  "main": "jquery.center.js",
+  "main": ["jquery.center.js"],
+  "ignore" : [],
   "authors": [
     "Gabriel Cebrian <gabceb@gmail.com>"
   ],
